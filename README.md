@@ -56,8 +56,17 @@
   <code><img title="MySQL" height="25" src="https://github.com/kunaldesign/kunaldesign/blob/main/images/mysql.svg"></code>
   <code><img title="npm" height="25" src="https://github.com/kunaldesign/kunaldesign/blob/main/images/npm.svg"></code>
   <code><img title="PHP" height="25" src="https://github.com/kunaldesign/kunaldesign/blob/main/images/php.svg"></code>
-  <code><img title="Flask" height="25" src="https://github.com/kunaldesign/kunaldesign/blob/main/images/flask.png"></code>
+  <!-- <code><img title="Flask" height="25" src="https://github.com/kunaldesign/kunaldesign/blob/main/images/flask.png"></code> -->
   <code><img title="Ruby" height="25" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png"></code>
+  <code><img title="Angular JS" height="25" src="images/angularjs.png"></code>
+  <code><img title="ASPnetMVC" height="25" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png"></code>
+  <code><img title="Chorme" height="25" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png"></code>
+  <code><img title="Django" height="25" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png"></code>
+  <code><img title="HackerRank" height="25" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png"></code>
+  <code><img title="Java" height="25" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png"></code>
+  <code><img title="MySql" height="25" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png"></code>
+  <code><img title="PostgreSQL" height="25" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png"></code>
+  <code><img title="React" height="25" src="https://img.icons8.com/officel/80/000000/ruby-programming-language.png"></code>
 </p>
 <hr>
 
