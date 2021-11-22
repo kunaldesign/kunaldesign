@@ -8,11 +8,12 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
+
 <br>
 <p align="center">
   Hi, I'm Kunal Hedaoo, Computer Engineer from Jabalpur (Madhya Pradesh)
@@ -30,7 +31,9 @@
   <br>
   📫 How to reach me: <a href="mailto: kunalhedaoo25@gmailcom">kunalhedaoo25@gmail.com</a>
 </p>
-
+<br>
+<center>
+<img src="https://tryhackme-badges.s3.amazonaws.com/hacker.boy.png" alt="TryHackMe"></center><br>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -88,6 +91,7 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=kunaldesign&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 </p>
 
 <hr>
