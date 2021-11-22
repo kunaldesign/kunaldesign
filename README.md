@@ -31,9 +31,13 @@
   <br>
   📫 How to reach me: <a href="mailto: kunalhedaoo25@gmailcom">kunalhedaoo25@gmail.com</a>
 </p>
-<br>
-<center>
-<img src="https://tryhackme-badges.s3.amazonaws.com/hacker.boy.png" alt="TryHackMe"></center><br>
+<hr>
+    <h2 align="center">TryHackMe Rank</h2>
+    <p align="center">
+        <br>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/hacker.boy.png" alt="TryHackMe" align="center"><br>
+    </p>
+</hr>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
