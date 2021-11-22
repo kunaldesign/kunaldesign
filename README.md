@@ -35,7 +35,7 @@
     <h2 align="center">TryHackMe Rank</h2>
     <p align="center">
         <br>
-        <img src="https://tryhackme-badges.s3.amazonaws.com/hacker.boy.png" alt="TryHackMe" align="center"><br>
+        <img src="images/hacker_boy.png" alt="TryHackMe" align="center"><br>
     </p>
 </hr>
 <hr>
